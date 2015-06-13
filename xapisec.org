@@ -3,7 +3,6 @@
 #+TOC: listings
 #+TOC: tables
 
-** General Guidelines
 
    In accordance with [[https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf][OMB Memorandum M-15-13]], which mandates the exclusive use of
 HTTPS with HSTS across all Federal government web services, it stands to reason
@@ -11,3 +10,15 @@ that, as a DoD initiative, [[http://www.adlnet.gov/capabilities/tla/experience-a
 
 This document intends to establish a set of best practices for secure xAPI usage,
 hopefully leading to a standard extending xAPI, provisionally termed xAPIsec.
+
+* Table of Contents                                                     :TOC:
+  - [[#standards][Web Standards]]
+    - [[#https][HTTPS]]
+    - [[#hsts][HSTS]]
+    - [[#pfs][Perfect Forward Secrecy]]
+  - [[#pki][PKI]]
+* Web Standards
+** HTTPS
+** HSTS
+** Perfect Forward Secrecy
+* PKI
