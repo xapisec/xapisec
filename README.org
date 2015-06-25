@@ -6,7 +6,7 @@
 
 In accordance with [[https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf][OMB Memorandum M-15-13]], which mandates the exclusive use of
 HTTPS with HSTS across all Federal government web services, it stands to reason
-that as a DoD initative, [[http://www.adlnet.gov/capabilities/tla/experience-api.html][xAPI]] should hold itself, at a minimum, to standard.
+that as a DoD initative, [[http://www.adlnet.gov/capabilities/tla/experience-api.html][xAPI]] should hold itself, at a minimum, to that standard.
 
 This document intends to establish a set of best practices for secure xAPI usage,
 hopfully leading to a standard extending xAPI, provisionally termed xAPIsec.
@@ -21,7 +21,7 @@ the security of the external interface of an LRS:
   - Strong key exchange (Elliptic-Curve Diffie-Hellman)
   - HSTS with long duration - including subdomains - and preload directive
 
-These mitgate or prevent:
+These mitigate or prevent:
 
   - message interception
   - MITM attacks
@@ -29,7 +29,7 @@ These mitgate or prevent:
 
 ** Second Tier: What to Consider
 
-  - Infosec standards for Activity Providers considred in isolation from LRS
+  - Infosec standards for Activity Providers considered in isolation from LRS
   - Internals
   - Information architecture
   - Secure network hierarchy for SaaS
