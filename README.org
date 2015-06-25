@@ -9,7 +9,7 @@ HTTPS with HSTS across all Federal government web services, it stands to reason
 that as a DoD initative, [[http://www.adlnet.gov/capabilities/tla/experience-api.html][xAPI]] should hold itself, at a minimum, to that standard.
 
 This document intends to establish a set of best practices for secure xAPI usage,
-hopfully leading to a standard extending xAPI, provisionally termed xAPIsec.
+hopefully leading to a standard extending xAPI, provisionally termed xAPIsec.
 
 ** Initial suggestions
 
