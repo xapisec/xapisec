@@ -1,3 +1,58 @@
 #+TITLE: xAPIsec
 
-** xAPI Security Policy
+** xAPIsec: a Proposal for an Industry-led xAPI Information Security Standard
+
+** Rationale and Objective
+
+In accordance with [[https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf][OMB Memorandum M-15-13]], which mandates the exclusive use of
+HTTPS with HSTS across all Federal government web services, it stands to reason
+that as a DoD initative, [[http://www.adlnet.gov/capabilities/tla/experience-api.html][xAPI]] should hold itself, at a minimum, to standard.
+
+This document intends to establish a set of best practices for secure xAPI usage,
+hopfully leading to a standard extending xAPI, provisionally termed xAPIsec.
+
+** Initial suggestions
+
+The following have been identified as items that should be established as best
+practices for secure xAPI usage with regards to transport-level security, i.e.
+the security of the external interface of an LRS:
+
+  - Strong signing algorithm SHA-256
+  - Strong key exchange (Elliptic-Curve Diffie-Hellman)
+  - HSTS with long duration - including subdomains - and preload directive
+
+These mitgate or prevent:
+
+  - message interception
+  - MITM attacks
+  - message/statement alteration between AP and LRS
+
+** Second Tier: What to Consider
+
+  - Infosec standards for Activity Providers considred in isolation from LRS
+  - Internals
+  - Information architecture
+  - Secure network hierarchy for SaaS
+  - Data persistence mechanism reliability
+
+** Third Tier: What to Consider
+
+  - Full-stack
+  - Best practices for intrusion detection sytems
+  - Alarm response times
+  - Auditing
+  - Response to zero-day vulnerabilities
+  - CVE response time standards
+
+** The xAPIsec Effort
+
+It is our desire to establish an industry-driven protocol and standard for
+xAPI information security.
+
+We would like input of the broad xAPI community and would ask ADL to
+assist in pushing out the call for feedback. We will be discussing this
+at the xAPI Bootcamp in July as the effort came out of the work we’ve done
+in building and testing scalability and security matters throughout the
+build of our learning record store and visualization layer.
+
+This document should be considered a general draft outline.

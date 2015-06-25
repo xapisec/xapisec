@@ -1,4 +1,4 @@
-#+TITLE: CONTIRBUTORS.org
+#+TITLE: CONTIRBUTORS
 
 
 | Name        | Github       | Organization  |
