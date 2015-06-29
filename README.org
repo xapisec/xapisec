@@ -49,7 +49,7 @@ These mitigate or prevent:
 It is our desire to establish an industry-driven protocol and standard for
 xAPI information security.
 
-We would like input of the broad xAPI community and would ask ADL to
+We would like input from the broad xAPI community and would ask ADL to
 assist in pushing out the call for feedback. We will be discussing this
 at the xAPI Bootcamp in July as the effort came out of the work we’ve done
 in building and testing scalability and security matters throughout the
