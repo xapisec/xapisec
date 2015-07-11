@@ -1,6 +1,9 @@
 #+TITLE: CONTIRBUTORS
+#+AUTHOR: Jason Lewis
+#+EMAIL: jason@yetanalytics.com
 
 
-| Name        | Github       | Organization  |
-| Jason Lewis | [[https://github.com/canweriotnow][canweriotnow]] | [[http://yetanalytics.com][Yet Analytics]] |
-| Milt Reder  | [[https://githuib.com/milt][milt]] |[[http://yetanalytics.com][Yet Analytics]] |
+| Name               | Github       | Organization  |
+| Jason Lewis        | [[https://github.com/canweriotnow][canweriotnow]] | [[http://yetanalytics.com][Yet Analytics]] |
+| Milt Reder         | [[https://githuib.com/milt][milt]]         | [[http://yetanalytics.com][Yet Analytics]] |
+| Shelly Blake-Plock | [[https://github.com/blakeplock][blakeplock]]   | [[http://yetanalyics.com][Yet Analytics]] |

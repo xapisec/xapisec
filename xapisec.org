@@ -22,3 +22,4 @@ hopefully leading to a standard extending xAPI, provisionally termed xAPIsec.
 ** HSTS
 ** Perfect Forward Secrecy
 * PKI
+* Conformance Testing
