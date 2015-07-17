@@ -1,0 +1,6 @@
+#+TITLE: xAPIsec: TODO
+#+AUTHOR: Jason Lewis
+
+** Caveats
+*** Barriers to Entry
+*** Recommended upgrade path
