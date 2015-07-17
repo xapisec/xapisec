@@ -19,6 +19,20 @@ hopefully leading to a standard extending xAPI, provisionally termed xAPIsec.
   - [[#pki][PKI]]
 * Web Standards
 ** HTTPS
+
+HTTP over TLS (Hypertext Transfer Protocol over Transport Layer Security) has
+existed for over 15 years. The extant RFC defining HTTPS, [[http://tools.ietf.org/html/rfc2818][RFC 2818]], dates from
+May 2000.
+
 ** HSTS
+
+HSTS, or Hypertext Strict Transport Security, is a method whereby web servers
+instruct clients that they are only to be accessed over HTTPS, never insecure HTTP,
+within a given time frame.
+
 ** Perfect Forward Secrecy
+
+Forward secrecy is a cryptographic method of mitigating attack surface by preventing
+the reuse of keys between sessions.
+
 * PKI
