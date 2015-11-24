@@ -1,4 +1,4 @@
-#+TITLE: CONTIRBUTORS
+#+TITLE: CONTRIBUTORS
 #+AUTHOR: Jason Lewis
 #+EMAIL: jason@yetanalytics.com
 #+DATE: 21 Nov 2015
