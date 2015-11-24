@@ -41,7 +41,7 @@ the reuse of keys between sessions.
 * PKI
 * Conformance Testing
 ** Third-Party Services
-   [[https://www.ssllabs.com/ssltest/][Qualys SSl Labs Server Test]] is a
+   [[https://www.ssllabs.com/ssltest/][Qualys SSL Labs Server Test]] is a
    recommended first-line test for compliance with best practices for
    secure HTTP transport. Any LRS or application endpoint with less than an A+
    rating is recommended to follow the suggestions provided by the Qualys scan
