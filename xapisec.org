@@ -17,6 +17,7 @@ hopefully leading to a standard extending xAPI, provisionally termed xAPIsec.
    - [[#hsts][HSTS]]
    - [[#perfect-forward-secrecy][Perfect Forward Secrecy]]
  - [[#pki][PKI]]
+   - [[#x509-client-certificates][X.509 Client Certificates]]
  - [[#conformance-testing][Conformance Testing]]
    - [[#third-party-services][Third-Party Services]]
 
@@ -39,6 +40,10 @@ Forward secrecy is a cryptographic method of mitigating attack surface by preven
 the reuse of keys between sessions.
 
 * PKI
+
+** X.509 Client Certificates
+   #+TODO: Spec use of client certs
+
 * Conformance Testing
 ** Third-Party Services
    [[https://www.ssllabs.com/ssltest/][Qualys SSL Labs Server Test]] is a
