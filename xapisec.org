@@ -12,11 +12,14 @@ This document intends to establish a set of best practices for secure xAPI usage
 hopefully leading to a standard extending xAPI, provisionally termed xAPIsec.
 
 * Table of Contents                                                     :TOC:
-  - [[#standards][Web Standards]]
-    - [[#https][HTTPS]]
-    - [[#hsts][HSTS]]
-    - [[#pfs][Perfect Forward Secrecy]]
-  - [[#pki][PKI]]
+ - [[#web-standards][Web Standards]]
+   - [[#https][HTTPS]]
+   - [[#hsts][HSTS]]
+   - [[#perfect-forward-secrecy][Perfect Forward Secrecy]]
+ - [[#pki][PKI]]
+ - [[#conformance-testing][Conformance Testing]]
+   - [[#third-party-services][Third-Party Services]]
+
 * Web Standards
 ** HTTPS
 
@@ -37,3 +40,9 @@ the reuse of keys between sessions.
 
 * PKI
 * Conformance Testing
+** Third-Party Services
+   [[https://www.ssllabs.com/ssltest/][Qualys SSl Labs Server Test]] is a
+   recommended first-line test for compliance with best practices for
+   secure HTTP transport. Any LRS or application endpoint with less than an A+
+   rating is recommended to follow the suggestions provided by the Qualys scan
+   to mitigate vulnerabilities until an A+ rating is achieved.
