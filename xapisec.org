@@ -43,6 +43,13 @@ the reuse of keys between sessions.
 
 ** X.509 Client Certificates
    #+TODO: Spec use of client certs
+   While client certificates are not included as a required authentication
+   mechanism within the current [[https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md][xAPI Spec]],
+   the use of X.509 client certificates is not precluded by the spec.
+
+   Many federal agencies require the use of client certificates [citation needed]
+   and as such the use of X.509 certificates for (at least) Activity Provider
+   authentication and identification is a reasonable precaution.
 
 * Conformance Testing
 ** Third-Party Services
