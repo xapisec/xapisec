@@ -1,5 +1,7 @@
 #+TITLE: xAPIsec
 
+[[https://gitter.im/xapisec/xapisec?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge][https://badges.gitter.im/Join%20Chat.svg]]
+
 ** xAPIsec: a Proposal for an Industry-led xAPI Information Security Standard
 
 ** Rationale and Objective

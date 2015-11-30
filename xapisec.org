@@ -30,7 +30,7 @@ May 2000.
 
 ** HSTS
 
-HSTS, or Hypertext Strict Transport Security, is a method whereby web servers
+HSTS, or HTTP Strict Transport Security, is a method whereby web servers
 instruct clients that they are only to be accessed over HTTPS, never insecure HTTP,
 within a given time frame.
 
