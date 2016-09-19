@@ -13,6 +13,15 @@ that as a DoD initative, [[http://www.adlnet.gov/capabilities/tla/experience-api
 This document intends to establish a set of best practices for secure xAPI usage,
 hopefully leading to a standard extending xAPI, provisionally termed xAPIsec.
 
+** Community Resources
+
+- Slack: https://xapisec.slack.com
+- Signup Form: https://goo.gl/forms/17ztPTs2LM5F6hl82
+- Google Group: https://groups.google.com/forum/#!forum/xapisec
+- Github Pages: http://xapisec.github.io
+- Github repo: https://github.com/xapisec/xapisec
+- Gitter Chat (for developers): https://gitter.im/xapisec/xapisec
+
 ** Initial suggestions
 
 The following have been identified as items that should be established as best
