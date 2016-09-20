@@ -16,7 +16,7 @@ hopefully leading to a standard extending xAPI, provisionally termed xAPIsec.
 ** Community Resources
 
 - Slack: https://xapisec.slack.com
-- Signup Form: https://goo.gl/forms/17ztPTs2LM5F6hl82
+- Signup Form: https://goo.gl/forms/EHKDqSBjHqdwQPKx1
 - Google Group: https://groups.google.com/forum/#!forum/xapisec
 - Github Pages: http://xapisec.github.io
 - Github repo: https://github.com/xapisec/xapisec
